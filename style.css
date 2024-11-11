@@ -1,13 +1,13 @@
 body {
       color:#000000;
-      background:#2572E8;
+      background:#3578dd;
       margin: 0px;
 }
 header {
     border-bottom: solid 2px rgb(12, 36, 249);
     padding: 20px;
     font-size: 40px;
-    color: rgb(0, 0, 0);
+    color: rgb(202, 194, 194);
 }
 section {
    background: rgb(209, 209, 210);
