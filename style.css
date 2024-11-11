@@ -7,10 +7,10 @@ header {
     border-bottom: solid 2px rgb(12, 36, 249);
     padding: 20px;
     font-size: 40px;
-    color: rgb(12, 36, 249);
+    color: rgb(0, 0, 0);
 }
 section {
-   background: rgb(22, 61, 245);
+   background: rgb(209, 209, 210);
    padding-bottom:70px;
    padding-top: 70px;
    display: flex;
