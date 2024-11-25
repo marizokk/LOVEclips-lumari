@@ -3,6 +3,7 @@ body {
       background:#3578dd;
       margin: 0px;
       font-family: "Faculty Glyphic", sans-serif;
+     margin-bottom: 90px;
 }
 header {
     border-bottom: solid 2px rgb(12, 36, 249);
@@ -43,6 +44,7 @@ img{
 .categoria {
     padding-left: 20px;
     padding-right:20px;
+    margin-top: 40px;
 }
 .categoria-videos img {
   opacity: 0.8;
